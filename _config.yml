@@ -2,3 +2,7 @@ title: Daniil Sherstnev
 description: PhD Candidate Econ USC
 theme: minima
 markdown: kramdown
+
+repository: dansherstnev/daniil_sherstnev.github.io
+url: https://daniil_sherstnev.github.io
+baseurl: ""
