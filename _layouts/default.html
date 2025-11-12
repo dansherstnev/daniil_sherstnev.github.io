@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="{{ site.title }}" class="profile-image">
+            <h1>{{ site.title }}</h1>
+            <p class="subtitle">{{ site.subtitle }}</p>
+            
+            <div class="contact-info">
+                <p>📍 {{ site.location }}</p>
+                <p>✉️ <a href="mailto:{{ site.email }}">Email</a></p>
+                <p>💼 <a href="{{ site.linkedin }}" target="_blank">LinkedIn</a></p>
+            </div>
+        </aside>
+        
+        <main class="content">
+            {{ content }}
+        </main>
+    </div>
+</body>
+</html>
