@@ -8,7 +8,8 @@ I specialize in Applied Microeconomics and Causal Inference.I have experience us
 My CV is available [here](assets/pdfs/CV_new.pdf).
 
 
-  ## Experience
+## Experience
+
 **ByteDance Inc.**, Ads Measurement/Causal Inference team, San Jose
 - **PhD Researcher Intern** | May 2025 - August 2025
   - Bayesian modeling and winner declaration for A/B tests using Binomial-Poisson, Dirichlet-Multinomial and Dirichlet Poisson Mixture Modeling with JAX and NumPyro
@@ -16,7 +17,8 @@ My CV is available [here](assets/pdfs/CV_new.pdf).
   - IPW-GB + post calibration end-to-end model deployment to restore lost conversions. Decreased CPIC by 7%, model was pivotal for GA launch 
 - **PhD Researcher Intern** | May 2023 - August 2023
   - Replicating Predictive Incremetality by Experimentation (PIE) Meta paper with TikTok Ads campaign data using custom WRMSE loss function with PyTorch
-  **Universitat Pompeu Fabra**, Remote
+
+**Universitat Pompeu Fabra**, Remote
 - **Research Assistant** for Maria Petrova| November 2020 - August 2021
    - IV Lasso Causal analysis using Stata with Wharton Business School remote HPC Cluster
 
