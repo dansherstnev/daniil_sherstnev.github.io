@@ -1,4 +1,8 @@
-## About me
+---
+layout: default
+title: About me
+---
+
 I am a PhD candidate in Economics at the [University of Southern California](https://dornsife.usc.edu/econ/doctoral/).
 
 I specialize in Applied Microeconomics and Causal Inference. I have experience using advanced ML methods on large datasets, analysing thousands of A/B experiments, household and individual data, graph networks, vital statistics. 
