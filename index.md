@@ -1,6 +1,3 @@
-layout: default
-title: About me
----
 
 # About me
 
@@ -12,8 +9,14 @@ My CV is available [here](assets/pdfs/cv.pdf).
 
 ## Research interests
 
-- **Topic 1**: Causal inference and experimental design with advanced ML techniques.
-- **Topic 2**: Information diffusion in social networks.
+- Causal inference and experimental design with advanced ML techniques.
+- Information diffusion in social networks.
+
+  ## Experience
+ByteDance Inc. Ads Measurement/Causal Inference team
+- **PhD Researcher Intern**, May 2025 - August 2025  
+- **PhD Researcher Intern**, May 2024 - August 2024
+- **PhD Researcher Intern**, May 2023 - August 2023
 
 ## Education
 
@@ -26,8 +29,3 @@ My CV is available [here](assets/pdfs/cv.pdf).
 - **B.Sc. in Physics**  
   [Moscow Institute of Physics and Technology](https://mipt.ru/), DGAP, 2014 - 2018
 
-## Experience
-
-- **Position Title**  
-  PhD Researcher Intern, Ads Measurement/Causal Inference team, Bytedance Inc, May 2025 - August 2025  
-  
