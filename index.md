@@ -13,15 +13,15 @@ My CV is available [here](assets/pdfs/CV_new.pdf).
 ## Experience
 
 **ByteDance Inc.**, Ads Measurement/Causal Inference team, San Jose
-- **PhD Researcher Intern** | May 2025 - August 2025
+- **PhD Researcher Intern** &#124; May 2025 - August 2025
   - Bayesian modeling and winner declaration for A/B tests using Binomial-Poisson, Dirichlet-Multinomial and Dirichlet Poisson Mixture Modeling with JAX and NumPyro
-- **PhD Researcher Intern** | May 2024 - August 2024
+- **PhD Researcher Intern** &#124; May 2024 - August 2024
   - IPW-GB + post calibration end-to-end model deployment to restore lost conversions. Decreased CPIC by 7%, the model became pivotal for GA launch 
-- **PhD Researcher Intern** | May 2023 - August 2023
+- **PhD Researcher Intern** &#124; May 2023 - August 2023
   - Replicating Predictive Incremetality by Experimentation (PIE) Meta paper with TikTok Ads campaign data using custom WRMSE loss function with PyTorch
 
 **Universitat Pompeu Fabra**, Remote
-- **Research Assistant** for Maria Petrova| November 2020 - August 2021
+- **Research Assistant** for Maria Petrova &#124; November 2020 - August 2021
    - IV Lasso Causal analysis using Stata with Wharton Business School remote HPC Cluster
 
 ## Education
