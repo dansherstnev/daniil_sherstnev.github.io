@@ -1,4 +1,4 @@
-# About me
+## About me
 
 I am a PhD candidate in Economics at the [University of Southern California](https://dornsife.usc.edu/econ/doctoral/).
 
