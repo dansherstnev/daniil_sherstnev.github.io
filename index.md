@@ -14,14 +14,17 @@ My CV is available [here](assets/pdfs/cv.pdf).
 
   ## Experience
 ByteDance Inc. Ads Measurement/Causal Inference team
-- **PhD Researcher Intern**, May 2025 - August 2025  
+- **PhD Researcher Intern**, May 2025 - August 2025
+  -- Bayesian modeling and winner declaration for A/B tests using Binomial-Poisson, Dirichlet-Multinomial and Dirichlet Poisson Mixture Modeling with JAX and NumPyro
 - **PhD Researcher Intern**, May 2024 - August 2024
+  -- IPW-GB + post calibration end-to-end model deployment to restore lost conversions. Decreased CPIC by 7%, model was pivotal for GA launch 
 - **PhD Researcher Intern**, May 2023 - August 2023
+  -- Replicating Predictive Incremetality by Experimentation (PIE) Meta paper with TikTok Ads campaign data using custom WRMSE loss function with PyTorch
 
 ## Education
 
 - **Ph.D in Economics**  
-  [University of Southern California]([https://example.com](https://dornsife.usc.edu/econ/doctoral/)), 2021 - Present
+  [University of Southern California](https://dornsife.usc.edu/econ/doctoral/), 2021 - Present
 
 - **M.Sc. in Economics**  
   [New Economic School](https://www.nes.ru/about/official), MAE, 2018 - 2020
