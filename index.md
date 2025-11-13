@@ -13,7 +13,7 @@ My CV is available [here](assets/pdfs/CV_new.pdf).
 - **PhD Researcher Intern** | May 2025 - August 2025
   - Bayesian modeling and winner declaration for A/B tests using Binomial-Poisson, Dirichlet-Multinomial and Dirichlet Poisson Mixture Modeling with JAX and NumPyro
 - **PhD Researcher Intern** | May 2024 - August 2024
-  - IPW-GB + post calibration end-to-end model deployment to restore lost conversions. Decreased CPIC by 7%, model was pivotal for GA launch 
+  - IPW-GB + post calibration end-to-end model deployment to restore lost conversions. Decreased CPIC by 7%, the model became pivotal for GA launch 
 - **PhD Researcher Intern** | May 2023 - August 2023
   - Replicating Predictive Incremetality by Experimentation (PIE) Meta paper with TikTok Ads campaign data using custom WRMSE loss function with PyTorch
 
