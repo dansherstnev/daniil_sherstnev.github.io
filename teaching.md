@@ -1,3 +1,9 @@
+---
+layout: default
+title: Teaching
+---
+```
+
 # Teaching Assistant
 
 University of Southern California
