@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 ---
+
 **Bayesian models for A/B testing**
 
 [Methodology and analysis](assets/pdfs/bayesian_models.pdf) for Bayesian Two-Step Aggregated model, Dirichlet-Multinomial Model, Dirichlet-Poisson Mixture Model for estimating absolute lift samples given treatment and control groups conversion histograms. | [Python Code](assets/code/bayesian_models.py)
