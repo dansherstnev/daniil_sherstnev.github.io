@@ -4,7 +4,7 @@ title: Projects
 ---
 **LSTM and Transformer NLP regression**
 
-[LSTM and Transformer regression models](assets/pdfs/nlp_regression.pdf) to predict a hotel's score by review | [LSTM Code](assets/code/lstm.py), [Transformer Code] (assets/code/tranfformer_regression.py)
+[LSTM and Transformer regression models](assets/pdfs/nlp_regression.pdf) to predict a hotel's score by review | [LSTM Code](assets/code/lstm.py), [Transformer Code](assets/code/tranfformer_regression.py)
    - 8% error for LSTM and 7.3% error for Transformer
 
 ---
